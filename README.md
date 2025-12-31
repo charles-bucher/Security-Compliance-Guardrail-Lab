@@ -1,0 +1,1 @@
+🔒 Hands-on AWS lab simulating misconfigurations and enforcing automated guardrails. Demonstrates IAM, S3, CloudWatch, Lambda, CloudTrail, incident response, and preventative CloudOps skills—portfolio-ready for entry-level cloud roles.

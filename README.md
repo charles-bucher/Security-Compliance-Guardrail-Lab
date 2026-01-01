@@ -733,3 +733,39 @@ If this project helped you learn AWS security or build your own cloud portfolio,
 
 **Built with ☕ and ☁️ by Charles Bucher**  
 *Demonstrating real-world cloud security skills through hands-on projects*
+
+## AWS Services Used
+- EC2
+- VPC
+- S3
+- IAM
+- CloudWatch
+- CloudTrail
+- GuardDuty
+- AWS Config
+- Terraform
+
+> Services listed here are actively used in real troubleshooting, monitoring, and remediation workflows.
+
+
+
+## Cost Considerations
+This project was built with cost-awareness in mind:
+- Free tier–safe resource sizing
+- Explicit teardown steps included
+- Logging scoped to avoid unnecessary ingestion costs
+- Monitoring configured to balance visibility vs spend
+
+> Demonstrates real-world cloud cost responsibility.
+
+
+
+## Operational Responsibility & Risk Mitigation
+This lab simulates production support responsibilities:
+- Incident-driven troubleshooting
+- Security signal investigation (GuardDuty findings)
+- Audit visibility via CloudTrail and Config
+- Infrastructure reproducibility using Terraform
+
+This reflects SysOps-style ownership, not tutorial-only usage.
+
